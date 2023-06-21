@@ -1,0 +1,11 @@
+.header{
+    background-color:black;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+}
+.header > h1{
+    text-align: center;
+    text-decoration: none;
+    color: whitesmoke;
+}
